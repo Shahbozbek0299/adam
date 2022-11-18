@@ -1,0 +1,19 @@
+body {
+  text-align:center;
+    font-size:15pxt;
+    
+
+  
+}
+img { width:150px;
+height: auto;
+border:50px;
+border-radius:20px;
+  
+}
+div {
+  display:flex:10px;
+  border: 10px solid orange
+  padding: 10px;
+  margin-bottom:10px;
+}
